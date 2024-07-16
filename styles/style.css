@@ -140,3 +140,6 @@
 .footer-des{
     color: #ffffff;
 }
+p, a{
+    font-weight: 700;
+}
